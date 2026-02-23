@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+pydantic-settings
+google-generativeai
+aiogram
+streamlit
+pandas
+python-dotenv
+pytest
+pytest-asyncio
